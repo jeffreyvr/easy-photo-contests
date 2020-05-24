@@ -1,0 +1,870 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Easy Photo Contests\n"
+"POT-Creation-Date: 2018-07-31 11:36+0200\n"
+"PO-Revision-Date: 2018-07-26 23:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: easy-photo-contests.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: easy-photo-contests.php:112
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+#: easy-photo-contests.php:119
+msgid "The URL has been copied to your clipboard."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-entries.php:32
+#: includes/classes/admin/views/entries.php:2
+#: includes/classes/class-epc-post-type.php:74 includes/epc-filters.php:81
+msgid "Entries"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-entries.php:43
+#: views/entry-item.php:12
+msgid "View entry"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:38
+#: includes/classes/admin/class-epc-admin-license.php:39
+msgid "License"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:55
+msgid "License Options"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:64
+msgid "License Key"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:68
+msgid "Enter your license key"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:74
+#: includes/classes/admin/class-epc-admin-license.php:83
+msgid "Activate License"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:78
+msgid "active"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:80
+#: includes/edd/EDD_License_Handler.php:251
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:139
+#: includes/classes/admin/class-epc-admin-license.php:167
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:146
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:151
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:154
+msgid "Invalid license."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:158
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:161
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-license.php:164
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:22
+msgid "Contest settings"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:35
+#: includes/classes/class-epc-post-type.php:91
+msgid "Active"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:37
+msgid "Yes"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:38
+msgid "No"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:47
+msgid "Start date"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:49
+msgid "The contest will be automatically set active on this date."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:56
+msgid "End date"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:58
+msgid "The contest will be automatically set not active on this date."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:66
+msgid "&raquo; View contest entries"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:34
+msgid "Thank you for using this plugin!"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:36
+#, php-format
+msgid ""
+"If you need any help configuring this plugin, please check the <a href=\"%s"
+"\">documenation</a> or <a href=\"%s\">email us</a>."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:54
+#: includes/classes/admin/class-epc-admin-settings.php:192
+msgid "Photo Contest Settings"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:55
+msgid "Settings"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:195
+msgid "General"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:196
+msgid "Voting"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:197
+#: includes/classes/admin/views/entry.php:4
+msgid "Entry"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:198
+msgid "Email"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:202
+msgid "Support"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:203
+msgid "Documentation"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:236
+msgid "Server default"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:253
+msgid "Select a page"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:272
+msgid "Post Type Slug"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:273
+msgid ""
+"When using permalinks use the following slug in the URL. Default: easy-photo-"
+"contest. You might have to update your permalink settings after changing "
+"this."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:278
+msgid "Maximum file size"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:279
+#, php-format
+msgid "The maximum upload file size of a photo. Your server limit is %s."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:285
+msgid "Use lightbox"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:286
+#, php-format
+msgid ""
+"Will load <a href=\"%s\">SimpleLightbox</a> (by Andre Rinas) script to "
+"enable image enlargement."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:291
+msgid "Filter media library"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:292
+msgid ""
+"When enabled the contest media will not show up in the admin media library."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:297
+msgid "Entries per page"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:298
+msgid "The amount of entries you would like to show per page. Default is 12."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:303
+msgid "Columns per row"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:304
+msgid "The amount of columns you would like to show per row. Default is 3."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:310
+msgid "Check contest active state"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:311
+msgid ""
+"When enabled you will be able to set an start en end date for your contest "
+"that will be automatically checked daily."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:321
+msgid "Voting requirements"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:322
+msgid ""
+"With these options you specify requirements that the voter needs to fulfill."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:325
+msgid "Voter must be logged in to vote."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:326
+msgid "Voter needs to leave an email address to vote."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:327
+msgid "Voter needs to confirm the vote via email."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:337
+msgid "Entry requirements"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:338
+msgid ""
+"With these options you specify requirements that the contestant needs to "
+"fulfill."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:341
+msgid "The contestant must be logged in to submit an entry."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:342
+msgid "The contestant can only submit one photo per contest."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:343
+msgid "The entry needs to approved before it becomes visible."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:348
+msgid "Submit entry page"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:349
+msgid "The page from where entries can be submitted."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:356
+msgid "Social media buttons"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:357
+msgid "Check to show social media sharing buttons on entry pages."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:362
+msgid "Agree to terms"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:363
+msgid "Check to have contestants agree to the terms."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:368
+msgid "Terms text"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:369
+msgid "If Agree to Terms is checked, enter the agreement terms here."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:379
+msgid "Vote confirmation subject"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:380
+#: includes/classes/admin/class-epc-admin-settings.php:398
+msgid "Subject of the voting confirmation email."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:385
+msgid "Vote confirmation text"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:386
+#: includes/classes/admin/class-epc-admin-settings.php:404
+msgid ""
+"Text of the voting confirmation email. HTML is accepted. Available tags:"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:391
+msgid "Entry approval notification"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:392
+msgid "Send a notification to the contestants after approving their entry."
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:397
+msgid "Entry approval subject"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:403
+msgid "Entry approval text"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:409
+msgid "Admin entry notification"
+msgstr ""
+
+#: includes/classes/admin/class-epc-admin-settings.php:410
+msgid "Send a notification to the admin when a new entry has been submitted."
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:14
+msgid "Actions"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:15
+#: includes/classes/admin/views/entries.php:60
+#: includes/classes/admin/views/entry.php:70
+#: includes/classes/admin/views/entry.php:117
+#: includes/classes/class-epc-post-type.php:80
+msgid "Status"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:16
+msgid "Approve"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:17
+#: includes/classes/admin/views/entry.php:72 includes/epc-functions.php:951
+msgid "Not approved"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:19
+msgid "Permanently"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:20
+#: includes/classes/admin/views/entries.php:77
+#: includes/classes/admin/views/entry.php:86
+#: includes/classes/admin/views/entry.php:142
+msgid "Delete"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:24
+msgid "Confirm"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:30
+msgid "Select a contest"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:36
+msgid "Select"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:41
+#: includes/classes/admin/views/entries.php:43
+msgid "Search entries"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:54
+msgid "Select all"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:57
+#: includes/classes/admin/views/entry.php:50
+msgid "Name"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:58
+#: includes/classes/admin/views/entry.php:33
+msgid "Contestant"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:59
+msgid "Submit date"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:61 includes/epc-filters.php:86
+msgid "Votes"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:62
+#: includes/classes/admin/views/entry.php:102
+msgid "Photo"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:69
+msgid "Select entry"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:75
+msgid "View"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:76
+msgid "Edit"
+msgstr ""
+
+#: includes/classes/admin/views/entries.php:113
+msgid "No contest was selected or no entries are found."
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:5
+#, php-format
+msgid "Votes (%d)"
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:15
+msgid "Details"
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:23
+msgid "Entry date"
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:60
+msgid "Description"
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:72 includes/epc-functions.php:949
+msgid "Approved"
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:72 includes/epc-functions.php:953
+msgid "Awaiting approval"
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:83
+msgid "Save"
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:96
+msgid "&laquo; View all contest entries"
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:118 includes/epc-filters.php:85
+msgid "Date"
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:119
+msgid "Voter"
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:128
+msgid "Show / hide confirmation URL"
+msgstr ""
+
+#: includes/classes/admin/views/entry.php:149
+msgid "There are no votes for this entry."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:27
+#: includes/classes/class-epc-install.php:112
+msgid "Submit entry"
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:31
+msgid "There are no contests active at this moment."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:37
+msgid "Contest"
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:47
+msgid "Your name"
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:56
+#: includes/classes/class-epc-vote-form.php:42
+msgid "Your email address"
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:65
+msgid "Name of your entry"
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:74
+msgid "Description of your entry"
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:83
+msgid "Select your photo"
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:130
+#: includes/classes/class-epc-vote-form.php:76
+msgid "You appear to be a spambot."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:145
+msgid "Please fill in your name."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:151
+#: includes/classes/class-epc-vote-form.php:87
+msgid "Please fill in your email address."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:153
+#: includes/classes/class-epc-vote-form.php:89
+msgid "Your email address is invalid."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:158
+msgid "Please select a contest."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:161
+msgid "You already participate in this contest."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:167
+msgid "In order to submit your entry you have to agree to the terms."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:170
+msgid "Please provide your entry with a name (short description)."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:173
+msgid "Please select a photo."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:179
+msgid "Your photo must be in one of the following formats: jpg (jpeg), png."
+msgstr ""
+
+#: includes/classes/class-epc-entry-form.php:222
+msgid ""
+"Something went wrong with submitting your entry. Please check the form for "
+"validation messages."
+msgstr ""
+
+#: includes/classes/class-epc-entry.php:89
+msgid "Edit entry"
+msgstr ""
+
+#: includes/classes/class-epc-entry.php:193
+#: includes/classes/class-epc-entry.php:226
+#, php-format
+msgid "This is the entry \"%s\" for the %s contest."
+msgstr ""
+
+#: includes/classes/class-epc-form.php:23
+msgid "Submit"
+msgstr ""
+
+#: includes/classes/class-epc-form.php:67
+#, php-format
+msgid "In order to fill in this form, you must be <a href='%s'>logged in</a>."
+msgstr ""
+
+#: includes/classes/class-epc-install.php:144
+msgid "Confirm your vote"
+msgstr ""
+
+#: includes/classes/class-epc-install.php:148
+msgid "Please confirm your vote by click this URL: {confirmation_url}"
+msgstr ""
+
+#: includes/classes/class-epc-install.php:152
+msgid "Your entry has been approved"
+msgstr ""
+
+#: includes/classes/class-epc-install.php:156
+msgid "Your entry has been approved. You can view at this URL: {entry_url}"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:30
+msgctxt "post type general name"
+msgid "Photo Contests"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:31
+msgctxt "post type singular name"
+msgid "Contest"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:32
+msgctxt "admin menu"
+msgid "Photo Contests"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:33
+msgctxt "add new on admin bar"
+msgid "Contest"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:34
+msgctxt "contest"
+msgid "Add New"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:35
+msgid "Add New Contest"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:36
+msgid "New Contest"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:37
+msgid "Edit Contest"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:38
+msgid "View Contest"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:39
+msgid "All Photo Contests"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:40
+msgid "Search Photo Contests"
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:41
+msgid "No Photo Contests found."
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:42
+msgid "No Photo Contests found in Trash."
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:47
+msgid "This post type contains the photo contests."
+msgstr ""
+
+#: includes/classes/class-epc-post-type.php:91
+msgid "Not active"
+msgstr ""
+
+#: includes/classes/class-epc-vote-form.php:35
+msgid "Submit vote"
+msgstr ""
+
+#: includes/classes/class-epc-vote-form.php:83
+msgid "You are not able to vote in this contest."
+msgstr ""
+
+#: includes/classes/class-epc-vote-form.php:94
+msgid "You have already voted in this contest."
+msgstr ""
+
+#: includes/edd/EDD_License_Handler.php:125
+#, php-format
+msgid "%1$s License Key"
+msgstr ""
+
+#: includes/edd/EDD_SL_Plugin_Updater.php:147
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/edd/EDD_SL_Plugin_Updater.php:155
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: includes/edd/EDD_SL_Plugin_Updater.php:302
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/edd/EDD_SL_Plugin_Updater.php:302
+msgid "Error"
+msgstr ""
+
+#: includes/epc-actions.php:185
+msgid "A new contest entry has been submitted"
+msgstr ""
+
+#: includes/epc-actions.php:192
+#, php-format
+msgid "A new contest entry has been submitted. You can view it here: %s"
+msgstr ""
+
+#: includes/epc-actions.php:193
+#, php-format
+msgid "You can edit the entry here: %s"
+msgstr ""
+
+#: includes/epc-filters.php:60 views/entry.php:44
+msgid "This contest is not active at this moment."
+msgstr ""
+
+#: includes/epc-filters.php:65
+msgid "Your entry is submitted and awaiting approval from the moderators."
+msgstr ""
+
+#: includes/epc-filters.php:84
+msgid "Order by:"
+msgstr ""
+
+#: includes/epc-filters.php:87
+msgid "Order:"
+msgstr ""
+
+#: includes/epc-filters.php:88
+msgid "Descending"
+msgstr ""
+
+#: includes/epc-filters.php:89
+msgid "Ascending"
+msgstr ""
+
+#: includes/epc-filters.php:113
+msgid "There are no entries yet, be the first!"
+msgstr ""
+
+#: includes/epc-functions.php:90
+msgid "Could not upload the file."
+msgstr ""
+
+#: includes/epc-functions.php:617
+msgid "This entry does not exist."
+msgstr ""
+
+#: includes/epc-functions.php:632 views/entry.php:33
+#, php-format
+msgid "Posted: %s ago"
+msgstr ""
+
+#: includes/epc-functions.php:633 views/entry.php:34
+msgid "Contestant:"
+msgstr ""
+
+#: includes/epc-functions.php:634 views/entry.php:35
+msgid "Votes:"
+msgstr ""
+
+#: includes/epc-functions.php:640
+msgid "This contest is not active."
+msgstr ""
+
+#: includes/epc-functions.php:645 views/entry.php:50
+msgid "Back to contest page"
+msgstr ""
+
+#: includes/epc-functions.php:703
+msgid "Fingerprint only"
+msgstr ""
+
+#: includes/epc-functions.php:1001
+msgid "Enter contest"
+msgstr ""
+
+#: includes/epc-functions.php:1337
+msgid "Thank you for voting!"
+msgstr ""
+
+#: includes/epc-functions.php:1338
+msgid "We have send you an email with which you can confirm your vote."
+msgstr ""
+
+#: includes/epc-functions.php:1342
+msgid "Thank you!"
+msgstr ""
+
+#: includes/epc-functions.php:1343
+msgid "Your vote has been confirmed."
+msgstr ""
+
+#: includes/epc-functions.php:1347
+msgid "Your vote has been confirmed already!"
+msgstr ""
+
+#: views/entry-item.php:10
+#, php-format
+msgid "%s votes"
+msgstr ""
+
+#: views/entry.php:8
+msgid ""
+"This entry has not been approved yet. This entry is not visible for visitors."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Photo Contests"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://doubletakepigeon.com/easy-photo-contests"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"With the Easy Photo Contest plugin from Double Take Pigeon, you'll be able "
+"to quickly set up and organize photo contests."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Double Take Pigeon"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.doubletakepigeon.com"
+msgstr ""

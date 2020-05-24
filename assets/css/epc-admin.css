@@ -1,0 +1,85 @@
+.epc-delete {
+  color: #a00;
+}
+
+.epc-delete-m {
+  margin: 0 8px;
+}
+
+.epc-help-nav {
+  display: block;
+  width: 100%;
+  text-align: right;
+}
+
+a.epc-help-link {
+  display: inline-block;
+
+  text-decoration: none;
+
+  font-size: 12px;
+  text-transform: uppercase;
+
+  border: 1px solid #ddd;
+  border-top: none;
+
+  padding: 6px 12px;
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.epc-section {
+  display: none;
+}
+
+.epc-msg a,
+.epc-msg a:visited {
+  color: #fff;
+}
+
+.epc-msg {
+  background: #6287ac;
+  color: #fff;
+  font-size: 14px;
+  padding: 20px;
+  margin: 15px 15px 15px 0;
+  display: block;
+}
+
+.epc-msg-heading {
+  font-size: 15px;
+}
+
+.epc-vote-log {
+  background-color: #fff;
+  padding: 15px;
+  margin-top: 5px;
+  border: 1px solid #ddd;
+}
+
+.epc-vote-log table td,
+.epc-vote-log table th {
+  text-align: left;
+  padding: 5px 5px;
+}
+
+.epc-vote-log-heading {
+  margin-top: 0;
+}
+
+.epc-confirmation-url-block {
+  display: none;
+}
+
+.epc-pre {
+  font-size: 12px;
+  line-height: 22px;
+  padding: 10px 20px 12px 15px;
+  display: block;
+  word-break: break-all;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  background-color: #f5f5f5;
+  border: 1px solid rgba(0,0,0,.15);
+  border-radius: 4px;
+}

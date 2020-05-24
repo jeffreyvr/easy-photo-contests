@@ -1,0 +1,949 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Photo Contests\n"
+"POT-Creation-Date: 2018-07-31 11:36+0200\n"
+"PO-Revision-Date: 2018-07-31 11:37+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: easy-photo-contests.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: easy-photo-contests.php:112
+msgid "Are you sure you want to do this?"
+msgstr "Weet je zeker dat je dit wil doen?"
+
+#: easy-photo-contests.php:119
+msgid "The URL has been copied to your clipboard."
+msgstr "De URL is gekopieerd naar uw klembord."
+
+#: includes/classes/admin/class-epc-admin-entries.php:32
+#: includes/classes/admin/views/entries.php:2
+#: includes/classes/class-epc-post-type.php:74 includes/epc-filters.php:81
+msgid "Entries"
+msgstr "Inzendingen"
+
+#: includes/classes/admin/class-epc-admin-entries.php:43
+#: views/entry-item.php:12
+msgid "View entry"
+msgstr "Bekijk inzending"
+
+#: includes/classes/admin/class-epc-admin-license.php:38
+#: includes/classes/admin/class-epc-admin-license.php:39
+msgid "License"
+msgstr "Licentie"
+
+#: includes/classes/admin/class-epc-admin-license.php:55
+msgid "License Options"
+msgstr "Licentie opties"
+
+#: includes/classes/admin/class-epc-admin-license.php:64
+msgid "License Key"
+msgstr "Licentiesleutel"
+
+#: includes/classes/admin/class-epc-admin-license.php:68
+msgid "Enter your license key"
+msgstr "Vul jouw Licentiesleutel in"
+
+#: includes/classes/admin/class-epc-admin-license.php:74
+#: includes/classes/admin/class-epc-admin-license.php:83
+msgid "Activate License"
+msgstr "Activeer licentie"
+
+#: includes/classes/admin/class-epc-admin-license.php:78
+msgid "active"
+msgstr "actief"
+
+#: includes/classes/admin/class-epc-admin-license.php:80
+#: includes/edd/EDD_License_Handler.php:251
+msgid "Deactivate License"
+msgstr "De-activeer licentie"
+
+#: includes/classes/admin/class-epc-admin-license.php:139
+#: includes/classes/admin/class-epc-admin-license.php:167
+msgid "An error occurred, please try again."
+msgstr "Er is een fout opgetreden. Probeer het alsjeblieft opnieuw."
+
+#: includes/classes/admin/class-epc-admin-license.php:146
+#, php-format
+msgid "Your license key expired on %s."
+msgstr "Licentiesleutel is vervallen op %s."
+
+#: includes/classes/admin/class-epc-admin-license.php:151
+msgid "Your license key has been disabled."
+msgstr "Je licentiesleutel is uitgeschakeld."
+
+#: includes/classes/admin/class-epc-admin-license.php:154
+msgid "Invalid license."
+msgstr "Ongeldige licentie."
+
+#: includes/classes/admin/class-epc-admin-license.php:158
+msgid "Your license is not active for this URL."
+msgstr "Je licentie is niet actief voor deze URL."
+
+#: includes/classes/admin/class-epc-admin-license.php:161
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr "Dit lijkt een onjuiste licentiesleutel te zijn voor %s."
+
+#: includes/classes/admin/class-epc-admin-license.php:164
+msgid "Your license key has reached its activation limit."
+msgstr "Jouw licentiesleutel heeft zijn activatielimiet bereikt."
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:22
+msgid "Contest settings"
+msgstr "Wedstrijd instellingen"
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:35
+#: includes/classes/class-epc-post-type.php:91
+msgid "Active"
+msgstr "Actief"
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:37
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:38
+msgid "No"
+msgstr "Nee"
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:47
+msgid "Start date"
+msgstr "Startdatum"
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:49
+msgid "The contest will be automatically set active on this date."
+msgstr "De wedstrijd wordt automatisch actief op deze datum."
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:56
+msgid "End date"
+msgstr "Einddatum"
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:58
+msgid "The contest will be automatically set not active on this date."
+msgstr "De wedstrijd wordt automatisch niet-actief op deze datum."
+
+#: includes/classes/admin/class-epc-admin-meta-box.php:66
+msgid "&raquo; View contest entries"
+msgstr "&raquo; Bekijk wedstrijdinzendingen"
+
+#: includes/classes/admin/class-epc-admin-settings.php:34
+msgid "Thank you for using this plugin!"
+msgstr "Bedankt voor het gebruiken van deze plugin!"
+
+#: includes/classes/admin/class-epc-admin-settings.php:36
+#, php-format
+msgid ""
+"If you need any help configuring this plugin, please check the <a href=\"%s"
+"\">documenation</a> or <a href=\"%s\">email us</a>."
+msgstr ""
+"Als je hulp nodig hebt bij de configuratie, bekijk dan de <a href=\"%s"
+"\">documentation</a> of <a href=\"%s\">e-mail ons</a>."
+
+#: includes/classes/admin/class-epc-admin-settings.php:54
+#: includes/classes/admin/class-epc-admin-settings.php:192
+msgid "Photo Contest Settings"
+msgstr "Fotowedstrijd instellingen"
+
+#: includes/classes/admin/class-epc-admin-settings.php:55
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/classes/admin/class-epc-admin-settings.php:195
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/classes/admin/class-epc-admin-settings.php:196
+msgid "Voting"
+msgstr "Stemmen"
+
+#: includes/classes/admin/class-epc-admin-settings.php:197
+#: includes/classes/admin/views/entry.php:4
+msgid "Entry"
+msgstr "Inzending"
+
+#: includes/classes/admin/class-epc-admin-settings.php:198
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/classes/admin/class-epc-admin-settings.php:202
+msgid "Support"
+msgstr "Support"
+
+#: includes/classes/admin/class-epc-admin-settings.php:203
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: includes/classes/admin/class-epc-admin-settings.php:236
+msgid "Server default"
+msgstr "Server standaard"
+
+#: includes/classes/admin/class-epc-admin-settings.php:253
+msgid "Select a page"
+msgstr "Selecteer een pagina"
+
+#: includes/classes/admin/class-epc-admin-settings.php:272
+msgid "Post Type Slug"
+msgstr "Post Type Slug"
+
+#: includes/classes/admin/class-epc-admin-settings.php:273
+msgid ""
+"When using permalinks use the following slug in the URL. Default: easy-photo-"
+"contest. You might have to update your permalink settings after changing "
+"this."
+msgstr ""
+"Bij gebruik van permalinks wordt dit als slug gebruikt in de URL. Standaard: "
+"easy-photo-contest. Na het wijzigen moet je mogelijk de permalink "
+"instellingen opnieuw opslaan."
+
+#: includes/classes/admin/class-epc-admin-settings.php:278
+msgid "Maximum file size"
+msgstr "Maximale bestandsgrootte"
+
+#: includes/classes/admin/class-epc-admin-settings.php:279
+#, php-format
+msgid "The maximum upload file size of a photo. Your server limit is %s."
+msgstr ""
+"De maximale upload bestandsgrootte van een foto. Je serverlimiet is %s."
+
+#: includes/classes/admin/class-epc-admin-settings.php:285
+msgid "Use lightbox"
+msgstr "Gebruik Lightbox"
+
+#: includes/classes/admin/class-epc-admin-settings.php:286
+#, php-format
+msgid ""
+"Will load <a href=\"%s\">SimpleLightbox</a> (by Andre Rinas) script to "
+"enable image enlargement."
+msgstr ""
+"Zal het <a href=\"%s\">SimpleLightbox</a> (door Andre Rinas) script laden om "
+"beeldvergroting mogelijk te maken."
+
+#: includes/classes/admin/class-epc-admin-settings.php:291
+msgid "Filter media library"
+msgstr "Filter mediabibliotheek"
+
+#: includes/classes/admin/class-epc-admin-settings.php:292
+msgid ""
+"When enabled the contest media will not show up in the admin media library."
+msgstr ""
+"Indien aangevinkt zullen de inzendingen niet in de mediabibliotheek "
+"verschijnen."
+
+#: includes/classes/admin/class-epc-admin-settings.php:297
+msgid "Entries per page"
+msgstr "Inzendingen per pagina"
+
+#: includes/classes/admin/class-epc-admin-settings.php:298
+msgid "The amount of entries you would like to show per page. Default is 12."
+msgstr "Het aantal inzendingen dat je per pagina wilt laten zien."
+
+#: includes/classes/admin/class-epc-admin-settings.php:303
+msgid "Columns per row"
+msgstr "Kolommen per rij"
+
+#: includes/classes/admin/class-epc-admin-settings.php:304
+msgid "The amount of columns you would like to show per row. Default is 3."
+msgstr ""
+"Het aantal kolommen die je wil laten zien per rij. De standaardwaarde is 3."
+
+#: includes/classes/admin/class-epc-admin-settings.php:310
+msgid "Check contest active state"
+msgstr "Controleer wedstrijdstatus"
+
+#: includes/classes/admin/class-epc-admin-settings.php:311
+msgid ""
+"When enabled you will be able to set an start en end date for your contest "
+"that will be automatically checked daily."
+msgstr ""
+"Indien ingeschakeld, kun je een begin- en einddatum voor wedstrijden "
+"instellen die vervolgens dagelijks automatisch wordt gecontroleerd."
+
+#: includes/classes/admin/class-epc-admin-settings.php:321
+msgid "Voting requirements"
+msgstr "Stemvereisten"
+
+#: includes/classes/admin/class-epc-admin-settings.php:322
+msgid ""
+"With these options you specify requirements that the voter needs to fulfill."
+msgstr "Met deze opties kun je bepaalde eisen voor stemmen stellen."
+
+#: includes/classes/admin/class-epc-admin-settings.php:325
+msgid "Voter must be logged in to vote."
+msgstr "De bezoeker moet zijn ingelogd om te stemmen."
+
+#: includes/classes/admin/class-epc-admin-settings.php:326
+msgid "Voter needs to leave an email address to vote."
+msgstr "Om te stemmen moet de bezoeker een e-mailadres achterlaten."
+
+#: includes/classes/admin/class-epc-admin-settings.php:327
+msgid "Voter needs to confirm the vote via email."
+msgstr "De gebruiker moet de stem bevestigen via e-mail."
+
+#: includes/classes/admin/class-epc-admin-settings.php:337
+msgid "Entry requirements"
+msgstr "Inzendingvereisten"
+
+#: includes/classes/admin/class-epc-admin-settings.php:338
+msgid ""
+"With these options you specify requirements that the contestant needs to "
+"fulfill."
+msgstr ""
+"Met deze opties kun je aangeven aan welke eisen een deelnemer moet voldoen."
+
+#: includes/classes/admin/class-epc-admin-settings.php:341
+msgid "The contestant must be logged in to submit an entry."
+msgstr "De deelnemer moet zijn ingelogd om een inzending te kunnen doen."
+
+#: includes/classes/admin/class-epc-admin-settings.php:342
+msgid "The contestant can only submit one photo per contest."
+msgstr "Een deelnemer kan slechts één afbeelding per wedstrijd insturen."
+
+#: includes/classes/admin/class-epc-admin-settings.php:343
+msgid "The entry needs to approved before it becomes visible."
+msgstr "De inzending moet worden goedgekeurd voordat deze zichtbaar wordt."
+
+#: includes/classes/admin/class-epc-admin-settings.php:348
+msgid "Submit entry page"
+msgstr "Insturen inzending pagina"
+
+#: includes/classes/admin/class-epc-admin-settings.php:349
+msgid "The page from where entries can be submitted."
+msgstr "De pagina waar bezoekers een inzending kunnen doen."
+
+#: includes/classes/admin/class-epc-admin-settings.php:356
+msgid "Social media buttons"
+msgstr "Social media buttons"
+
+#: includes/classes/admin/class-epc-admin-settings.php:357
+msgid "Check to show social media sharing buttons on entry pages."
+msgstr ""
+"Vink aan om de social media deel-opties te tonen op inzending-pagina’s."
+
+#: includes/classes/admin/class-epc-admin-settings.php:362
+msgid "Agree to terms"
+msgstr "Accepteer voorwaarden"
+
+#: includes/classes/admin/class-epc-admin-settings.php:363
+msgid "Check to have contestants agree to the terms."
+msgstr "Controleer of deelnemers akkoord gaan met de voorwaarden."
+
+#: includes/classes/admin/class-epc-admin-settings.php:368
+msgid "Terms text"
+msgstr "Tekst van de voorwaarden"
+
+#: includes/classes/admin/class-epc-admin-settings.php:369
+msgid "If Agree to Terms is checked, enter the agreement terms here."
+msgstr ""
+"Als Accepteer voorwaarden is aangevinkt, vul dan hier de voorwaarden in."
+
+#: includes/classes/admin/class-epc-admin-settings.php:379
+msgid "Vote confirmation subject"
+msgstr "Stembevestiging onderwerp"
+
+#: includes/classes/admin/class-epc-admin-settings.php:380
+#: includes/classes/admin/class-epc-admin-settings.php:398
+msgid "Subject of the voting confirmation email."
+msgstr "Onderwerp van de stembevestiginsmail."
+
+#: includes/classes/admin/class-epc-admin-settings.php:385
+msgid "Vote confirmation text"
+msgstr "Stembevestiging tekst"
+
+#: includes/classes/admin/class-epc-admin-settings.php:386
+#: includes/classes/admin/class-epc-admin-settings.php:404
+msgid ""
+"Text of the voting confirmation email. HTML is accepted. Available tags:"
+msgstr "Tekst van de stembevestigingsmail."
+
+#: includes/classes/admin/class-epc-admin-settings.php:391
+msgid "Entry approval notification"
+msgstr "Inzending goedkeuringsmelding"
+
+#: includes/classes/admin/class-epc-admin-settings.php:392
+msgid "Send a notification to the contestants after approving their entry."
+msgstr ""
+"Stuur een notificatie aan de deelnemer wanneer zijn inzending is goedgekeurd."
+
+#: includes/classes/admin/class-epc-admin-settings.php:397
+msgid "Entry approval subject"
+msgstr "Inzending goedkeuring onderwerp"
+
+#: includes/classes/admin/class-epc-admin-settings.php:403
+msgid "Entry approval text"
+msgstr "Inzending goedkeuring tekst"
+
+#: includes/classes/admin/class-epc-admin-settings.php:409
+msgid "Admin entry notification"
+msgstr "Admin inzendingsnotificatie"
+
+#: includes/classes/admin/class-epc-admin-settings.php:410
+msgid "Send a notification to the admin when a new entry has been submitted."
+msgstr ""
+"Stuur een notificatie naar de beheerder wanneer een nieuw inzending is "
+"ingediend."
+
+#: includes/classes/admin/views/entries.php:14
+msgid "Actions"
+msgstr "Acties"
+
+#: includes/classes/admin/views/entries.php:15
+#: includes/classes/admin/views/entries.php:60
+#: includes/classes/admin/views/entry.php:70
+#: includes/classes/admin/views/entry.php:117
+#: includes/classes/class-epc-post-type.php:80
+msgid "Status"
+msgstr "Status"
+
+#: includes/classes/admin/views/entries.php:16
+msgid "Approve"
+msgstr "Goedkeuren"
+
+#: includes/classes/admin/views/entries.php:17
+#: includes/classes/admin/views/entry.php:72 includes/epc-functions.php:951
+msgid "Not approved"
+msgstr "Niet goedgekeurd"
+
+#: includes/classes/admin/views/entries.php:19
+msgid "Permanently"
+msgstr "Permanent"
+
+#: includes/classes/admin/views/entries.php:20
+#: includes/classes/admin/views/entries.php:77
+#: includes/classes/admin/views/entry.php:86
+#: includes/classes/admin/views/entry.php:142
+msgid "Delete"
+msgstr "Verwijder"
+
+#: includes/classes/admin/views/entries.php:24
+msgid "Confirm"
+msgstr "Bevestig"
+
+#: includes/classes/admin/views/entries.php:30
+msgid "Select a contest"
+msgstr "Selecteer een wedstrijd"
+
+#: includes/classes/admin/views/entries.php:36
+msgid "Select"
+msgstr "Selecteren"
+
+#: includes/classes/admin/views/entries.php:41
+#: includes/classes/admin/views/entries.php:43
+msgid "Search entries"
+msgstr "Zoek inzendingen"
+
+#: includes/classes/admin/views/entries.php:54
+msgid "Select all"
+msgstr "Alles selecteren"
+
+#: includes/classes/admin/views/entries.php:57
+#: includes/classes/admin/views/entry.php:50
+msgid "Name"
+msgstr "Naam"
+
+#: includes/classes/admin/views/entries.php:58
+#: includes/classes/admin/views/entry.php:33
+msgid "Contestant"
+msgstr "Deelnemer"
+
+#: includes/classes/admin/views/entries.php:59
+msgid "Submit date"
+msgstr "Indieningsdatum"
+
+#: includes/classes/admin/views/entries.php:61 includes/epc-filters.php:86
+msgid "Votes"
+msgstr "Stemmen"
+
+#: includes/classes/admin/views/entries.php:62
+#: includes/classes/admin/views/entry.php:102
+msgid "Photo"
+msgstr "Afbeelding"
+
+#: includes/classes/admin/views/entries.php:69
+msgid "Select entry"
+msgstr "Selecteer een inzending"
+
+#: includes/classes/admin/views/entries.php:75
+msgid "View"
+msgstr "Bekijk"
+
+#: includes/classes/admin/views/entries.php:76
+msgid "Edit"
+msgstr "Bewerken"
+
+#: includes/classes/admin/views/entries.php:113
+msgid "No contest was selected or no entries are found."
+msgstr "Geen wedstrijd werd geselecteerd of geen inzendingen zijn gevonden."
+
+#: includes/classes/admin/views/entry.php:5
+#, php-format
+msgid "Votes (%d)"
+msgstr "Stemmen (%d)"
+
+#: includes/classes/admin/views/entry.php:15
+msgid "Details"
+msgstr "Details"
+
+#: includes/classes/admin/views/entry.php:23
+msgid "Entry date"
+msgstr "Inzendingsdatum"
+
+#: includes/classes/admin/views/entry.php:60
+msgid "Description"
+msgstr "Beschrijving"
+
+#: includes/classes/admin/views/entry.php:72 includes/epc-functions.php:949
+msgid "Approved"
+msgstr "Goedgekeurd"
+
+#: includes/classes/admin/views/entry.php:72 includes/epc-functions.php:953
+msgid "Awaiting approval"
+msgstr "Wachtend op goedkeuring"
+
+#: includes/classes/admin/views/entry.php:83
+msgid "Save"
+msgstr "Opslaan"
+
+#: includes/classes/admin/views/entry.php:96
+msgid "&laquo; View all contest entries"
+msgstr "&laquo; Bekijk wedstrijdinzendingen"
+
+#: includes/classes/admin/views/entry.php:118 includes/epc-filters.php:85
+msgid "Date"
+msgstr "Datum"
+
+#: includes/classes/admin/views/entry.php:119
+msgid "Voter"
+msgstr "Stemmer"
+
+#: includes/classes/admin/views/entry.php:128
+msgid "Show / hide confirmation URL"
+msgstr "Toon / verberg confirmatie-URL"
+
+#: includes/classes/admin/views/entry.php:149
+msgid "There are no votes for this entry."
+msgstr "Er zijn geen stemmen voor deze inzending."
+
+#: includes/classes/class-epc-entry-form.php:27
+#: includes/classes/class-epc-install.php:112
+msgid "Submit entry"
+msgstr "Inzending toevoegen"
+
+#: includes/classes/class-epc-entry-form.php:31
+msgid "There are no contests active at this moment."
+msgstr "Er zijn op dit moment geen actieve wedstrijden."
+
+#: includes/classes/class-epc-entry-form.php:37
+msgid "Contest"
+msgstr "Wedstrijd"
+
+#: includes/classes/class-epc-entry-form.php:47
+msgid "Your name"
+msgstr "Jouw naam"
+
+#: includes/classes/class-epc-entry-form.php:56
+#: includes/classes/class-epc-vote-form.php:42
+msgid "Your email address"
+msgstr "Jouw e-mailadres"
+
+#: includes/classes/class-epc-entry-form.php:65
+msgid "Name of your entry"
+msgstr "Naam van de inzending"
+
+#: includes/classes/class-epc-entry-form.php:74
+msgid "Description of your entry"
+msgstr "Omschrijving van de inzending"
+
+#: includes/classes/class-epc-entry-form.php:83
+msgid "Select your photo"
+msgstr "Selecteer een foto"
+
+#: includes/classes/class-epc-entry-form.php:130
+#: includes/classes/class-epc-vote-form.php:76
+msgid "You appear to be a spambot."
+msgstr "Je lijkt een spambot te zijn."
+
+#: includes/classes/class-epc-entry-form.php:145
+msgid "Please fill in your name."
+msgstr "Vul a.u.b. je naam in."
+
+#: includes/classes/class-epc-entry-form.php:151
+#: includes/classes/class-epc-vote-form.php:87
+msgid "Please fill in your email address."
+msgstr "Vul a.u.b. jouw e-mailadres in."
+
+#: includes/classes/class-epc-entry-form.php:153
+#: includes/classes/class-epc-vote-form.php:89
+msgid "Your email address is invalid."
+msgstr "E-mailadres is ongeldig."
+
+#: includes/classes/class-epc-entry-form.php:158
+msgid "Please select a contest."
+msgstr "Selecteer een wedstrijd."
+
+#: includes/classes/class-epc-entry-form.php:161
+msgid "You already participate in this contest."
+msgstr "Je doet al mee in deze wedstrijd."
+
+#: includes/classes/class-epc-entry-form.php:167
+msgid "In order to submit your entry you have to agree to the terms."
+msgstr "Om de inzending in te dienen moet je akkoord gaan met de voorwaarden."
+
+#: includes/classes/class-epc-entry-form.php:170
+msgid "Please provide your entry with a name (short description)."
+msgstr "Voorzie de inzending van een naam."
+
+#: includes/classes/class-epc-entry-form.php:173
+msgid "Please select a photo."
+msgstr "Selecteer een foto."
+
+#: includes/classes/class-epc-entry-form.php:179
+msgid "Your photo must be in one of the following formats: jpg (jpeg), png."
+msgstr ""
+"Je afbeelding moet worden in een van de volgende formaten: jpg (jpeg), png."
+
+#: includes/classes/class-epc-entry-form.php:222
+msgid ""
+"Something went wrong with submitting your entry. Please check the form for "
+"validation messages."
+msgstr ""
+"Er ging iets mis met het verwerken van de inzending. Controleer of het "
+"formulier voor foutmeldingen."
+
+#: includes/classes/class-epc-entry.php:89
+msgid "Edit entry"
+msgstr "Bewerk inzending"
+
+#: includes/classes/class-epc-entry.php:193
+#: includes/classes/class-epc-entry.php:226
+#, php-format
+msgid "This is the entry \"%s\" for the %s contest."
+msgstr "Dit is de inzending \"%s\" voor de %s -wedstrijd."
+
+#: includes/classes/class-epc-form.php:23
+msgid "Submit"
+msgstr "Verzenden"
+
+#: includes/classes/class-epc-form.php:67
+#, php-format
+msgid "In order to fill in this form, you must be <a href='%s'>logged in</a>."
+msgstr "Om dit formulier te bekijken, moet je <a href='%s'>ingelogd zijn</a>."
+
+#: includes/classes/class-epc-install.php:144
+msgid "Confirm your vote"
+msgstr "Bevestig je stem"
+
+#: includes/classes/class-epc-install.php:148
+msgid "Please confirm your vote by click this URL: {confirmation_url}"
+msgstr "Bevestig je stem door te klikken op deze URL: {confirmatie_url}"
+
+#: includes/classes/class-epc-install.php:152
+msgid "Your entry has been approved"
+msgstr "Je inzending is goedgekeurd"
+
+#: includes/classes/class-epc-install.php:156
+msgid "Your entry has been approved. You can view at this URL: {entry_url}"
+msgstr "Je inzending is goedgekeurd. Bekijk de inzending hier: {entry_url}"
+
+#: includes/classes/class-epc-post-type.php:30
+msgctxt "post type general name"
+msgid "Photo Contests"
+msgstr "Fotowedstrijden"
+
+#: includes/classes/class-epc-post-type.php:31
+msgctxt "post type singular name"
+msgid "Contest"
+msgstr "Wedstrijd"
+
+#: includes/classes/class-epc-post-type.php:32
+msgctxt "admin menu"
+msgid "Photo Contests"
+msgstr "Fotowedstrijden"
+
+#: includes/classes/class-epc-post-type.php:33
+msgctxt "add new on admin bar"
+msgid "Contest"
+msgstr "Wedstrijd"
+
+#: includes/classes/class-epc-post-type.php:34
+msgctxt "contest"
+msgid "Add New"
+msgstr "Voeg toe"
+
+#: includes/classes/class-epc-post-type.php:35
+msgid "Add New Contest"
+msgstr "Nieuwe wedstrijd toevoegen"
+
+#: includes/classes/class-epc-post-type.php:36
+msgid "New Contest"
+msgstr "Nieuwe wedstrijd"
+
+#: includes/classes/class-epc-post-type.php:37
+msgid "Edit Contest"
+msgstr "Bewerk wedstrijd"
+
+#: includes/classes/class-epc-post-type.php:38
+msgid "View Contest"
+msgstr "Bekijk wedstrijd"
+
+#: includes/classes/class-epc-post-type.php:39
+msgid "All Photo Contests"
+msgstr "Alle fotowedstrijden"
+
+#: includes/classes/class-epc-post-type.php:40
+msgid "Search Photo Contests"
+msgstr "Zoek fotowedstrijden"
+
+#: includes/classes/class-epc-post-type.php:41
+msgid "No Photo Contests found."
+msgstr "Geen fotowedstrijden gevonden."
+
+#: includes/classes/class-epc-post-type.php:42
+msgid "No Photo Contests found in Trash."
+msgstr "Geen fotowedstrijden gevonden in de prullenbak."
+
+#: includes/classes/class-epc-post-type.php:47
+msgid "This post type contains the photo contests."
+msgstr "Dit berichttype bevat alle fotowedstrijden."
+
+#: includes/classes/class-epc-post-type.php:91
+msgid "Not active"
+msgstr "Niet actief"
+
+#: includes/classes/class-epc-vote-form.php:35
+msgid "Submit vote"
+msgstr "Verstuur stem"
+
+#: includes/classes/class-epc-vote-form.php:83
+msgid "You are not able to vote in this contest."
+msgstr "Je kunt niet stemmen in deze wedstrijd."
+
+#: includes/classes/class-epc-vote-form.php:94
+msgid "You have already voted in this contest."
+msgstr "Je hebt al eens gestemd in deze wedstrijd."
+
+#: includes/edd/EDD_License_Handler.php:125
+#, php-format
+msgid "%1$s License Key"
+msgstr "%1$s licentiesleutel"
+
+#: includes/edd/EDD_SL_Plugin_Updater.php:147
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+"Er is een nieuwe versie van %1$s beschikbaar; %2$sbekijk de versie%3$s-"
+"details%4$s."
+
+#: includes/edd/EDD_SL_Plugin_Updater.php:155
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"Er is een nieuwe versie van %1$s beschikbaar; %2$sbekijk versie%3$s-details"
+"%4$s of %5$supdate nu%6$s."
+
+#: includes/edd/EDD_SL_Plugin_Updater.php:302
+msgid "You do not have permission to install plugin updates"
+msgstr "Je hebt geen toestemming om plugins up te daten"
+
+#: includes/edd/EDD_SL_Plugin_Updater.php:302
+msgid "Error"
+msgstr "Fout"
+
+#: includes/epc-actions.php:185
+msgid "A new contest entry has been submitted"
+msgstr "Een nieuwe wedstrijdinzending is ingezonden"
+
+#: includes/epc-actions.php:192
+#, php-format
+msgid "A new contest entry has been submitted. You can view it here: %s"
+msgstr ""
+"Een is een nieuwe inzending voor een fotowedstrijd ingediend. Je kunt het "
+"hier bekijken: %s"
+
+#: includes/epc-actions.php:193
+#, php-format
+msgid "You can edit the entry here: %s"
+msgstr "Je kunt hier bewerken: %s"
+
+#: includes/epc-filters.php:60 views/entry.php:44
+msgid "This contest is not active at this moment."
+msgstr "Deze wedstrijd is op dit moment niet actief."
+
+#: includes/epc-filters.php:65
+msgid "Your entry is submitted and awaiting approval from the moderators."
+msgstr "Je inzending is ingediend en wacht op goedkeuring van de moderators."
+
+#: includes/epc-filters.php:84
+msgid "Order by:"
+msgstr "Sorteer op:"
+
+#: includes/epc-filters.php:87
+msgid "Order:"
+msgstr "Sortering:"
+
+#: includes/epc-filters.php:88
+msgid "Descending"
+msgstr "Aflopend"
+
+#: includes/epc-filters.php:89
+msgid "Ascending"
+msgstr "Oplopend"
+
+#: includes/epc-filters.php:113
+msgid "There are no entries yet, be the first!"
+msgstr "Er zijn nog geen inzendingen, wees de eerste!"
+
+#: includes/epc-functions.php:90
+msgid "Could not upload the file."
+msgstr "Kon het bestand niet uploaden."
+
+#: includes/epc-functions.php:617
+msgid "This entry does not exist."
+msgstr "Deze inzending bestaat niet."
+
+#: includes/epc-functions.php:632 views/entry.php:33
+#, php-format
+msgid "Posted: %s ago"
+msgstr "Geplaatst: %s geleden"
+
+#: includes/epc-functions.php:633 views/entry.php:34
+msgid "Contestant:"
+msgstr "Deelnemer:"
+
+#: includes/epc-functions.php:634 views/entry.php:35
+msgid "Votes:"
+msgstr "Stemmen:"
+
+#: includes/epc-functions.php:640
+msgid "This contest is not active."
+msgstr "Deze wedstrijd is niet actief."
+
+#: includes/epc-functions.php:645 views/entry.php:50
+msgid "Back to contest page"
+msgstr "Terug naar de wedstrijdpagina"
+
+#: includes/epc-functions.php:703
+msgid "Fingerprint only"
+msgstr "Alleen vingerafdruk"
+
+#: includes/epc-functions.php:1001
+msgid "Enter contest"
+msgstr "Doe mee"
+
+#: includes/epc-functions.php:1337
+msgid "Thank you for voting!"
+msgstr "Bedankt voor het stemmen!"
+
+#: includes/epc-functions.php:1338
+msgid "We have send you an email with which you can confirm your vote."
+msgstr "We hebben je een e-mail gestuurd waarmee je jouw stem kan bevestigen."
+
+#: includes/epc-functions.php:1342
+msgid "Thank you!"
+msgstr "Dank je!"
+
+#: includes/epc-functions.php:1343
+msgid "Your vote has been confirmed."
+msgstr "Je stem is bevestigd."
+
+#: includes/epc-functions.php:1347
+msgid "Your vote has been confirmed already!"
+msgstr "Je stem is al bevestigd!"
+
+#: views/entry-item.php:10
+#, php-format
+msgid "%s votes"
+msgstr "%s stemmen"
+
+#: views/entry.php:8
+msgid ""
+"This entry has not been approved yet. This entry is not visible for visitors."
+msgstr ""
+"Dit bericht is nog niet goedgekeurd. Dit bericht is niet zichtbaar voor "
+"bezoekers."
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Photo Contests"
+msgstr "Easy Photo Contests"
+
+#. Plugin URI of the plugin/theme
+msgid "https://doubletakepigeon.com/easy-photo-contests"
+msgstr "https://doubletakepigeon.com/easy-photo-contests"
+
+#. Description of the plugin/theme
+msgid ""
+"With the Easy Photo Contest plugin from Double Take Pigeon, you'll be able "
+"to quickly set up and organize photo contests."
+msgstr ""
+"Met de Easy Photo Contest plugin van Double Take Pigeon heb je alles bij de "
+"hand om snel fotowedstrijden te organiseren."
+
+#. Author of the plugin/theme
+msgid "Double Take Pigeon"
+msgstr "Double Take Pigeon"
+
+#. Author URI of the plugin/theme
+msgid "https://www.doubletakepigeon.com"
+msgstr "https://www.doubletakepigeon.com"
+
+#, fuzzy
+#~| msgid "Settings"
+#~ msgid "Settings (API)"
+#~ msgstr "Instellingen"
+
+#~ msgid "Your settings have been successfully updated."
+#~ msgstr "Je instellingen zijn bijgewerkt."
+
+#~ msgid "URL slug"
+#~ msgstr "URL slug"
+
+#~ msgid "In order to vote the visitor needs to be logged in."
+#~ msgstr "Om te kunnen stemmen moeten bezoekers zijn ingelogd."
+
+#~ msgid "Available shortcodes:"
+#~ msgstr "Beschikbare stortcodes:"
+
+#~ msgid "The confirmation URL with which the vote can be confirmed."
+#~ msgstr "De bevestiging-URL waarmee de stem kan worden bevestigd."
+
+#~ msgid "The URL to the entry that has been approved."
+#~ msgstr "De URL naar de inzending die is goedgekeurd."
+
+#~ msgid "The name of the entry that has been approved."
+#~ msgstr "De naam van de inzending die is goedgekeurd."
+
+#~ msgid "Something went wrong with saving the plugin settings."
+#~ msgstr "Er ging iets mis bij het opslaan van de instellingen van de plugin."
+
+#~ msgid "View all contest entries"
+#~ msgstr "Bekijk alle wedstrijdinzendingen"
+
+#~ msgid "Select contest"
+#~ msgstr "Selecteer wedstrijd"
+
+#~ msgid "You have already confirmed your vote. Thanks again!"
+#~ msgstr "Je hebt je stem al bevestigd. Nogmaals bedankt!"
+
+#~ msgid "Your email is invalid."
+#~ msgstr "E-mailadres is ongeldig."
+
+#~ msgid "Vote"
+#~ msgstr "Stem"
+
+#~ msgid "To vote you must be <a href=\"%s\">logged in</a>."
+#~ msgstr "Om te stemmen moet je <a href=\"%s\">ingelogd zijn</a> ."
